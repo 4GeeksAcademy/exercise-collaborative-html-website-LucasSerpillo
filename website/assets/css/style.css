@@ -1,3 +1,30 @@
 body{
     background: #BDBDBD;
 }
+
+.jumbotron {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: bottom;
+
+}
+
+.jumbo-text {
+    background-color: #f3fdff;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+h1.jumbo-text {
+font-size:9vw;
+}
+
+h3.jumbo-text {
+    font-size:5vw;
+}
+
+.jumbotron div h3 {
+    margin-top:1vw;
+    margin-bottom:200px;
+}
